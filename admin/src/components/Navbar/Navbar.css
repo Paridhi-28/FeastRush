@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.navbar h1{
+    color: tomato;
+    width: max(10%, 80px);
+    display: inline;
+}
+
+.navbar .profile{
+    width: 40px;
+}
